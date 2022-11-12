@@ -1,4 +1,4 @@
-package com.bridgelabz;
+package com.bridgelabz.repetition;
 
 public class WhileLoop {
     static int sumOfNumbers(){

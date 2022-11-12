@@ -1,4 +1,4 @@
-package com.bridgelabz;
+package com.bridgelabz.repetition;
 
 public class DoWhileLoop {
     public static void main(String[] args){

@@ -1,4 +1,4 @@
-package com.bridgelabz;
+package com.bridgelabz.sequences;
 
 import java.util.Scanner;
 
