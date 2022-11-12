@@ -1,4 +1,4 @@
-package Day1Problems.com.practice;
+package Day1Problems;
 
 public class StringEqual {
     static String checkStringEquality(String str1,String str2) {

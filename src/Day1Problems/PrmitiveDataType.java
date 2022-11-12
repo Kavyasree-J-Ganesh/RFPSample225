@@ -1,4 +1,4 @@
-package Day1Problems.com.practice;
+package Day1Problems;
 
 public class PrmitiveDataType {
     public static void main(String[] args) {
